@@ -1,2 +1,2 @@
-# xlogimage
-store images for xlog
+# Obsidian image
+store images for Obsidian
